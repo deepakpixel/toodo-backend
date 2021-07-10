@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deepakpixel/toodo-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deepakpixel/toodo-backend/issues"
+  },
+  "homepage": "https://github.com/deepakpixel/toodo-backend#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
